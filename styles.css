@@ -1,0 +1,44 @@
+*{
+    font-family: 'Arial', sans-serif;
+}
+.title {
+    text-align: center;
+    color:cadetblue;
+    text-shadow: 2px 2px 4px lightskyblue;
+    font-size: 3rem;
+}
+.recipe-link,
+.home-link
+ {
+    background-color: light-grey;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.5rem;
+}
+.first-link {
+    margin-left: 40%;
+}
+.instructions,
+.ingredients
+ {
+    font-size: 1.2rem;
+    margin-left: 35%;
+    margin-top: 80px;
+    border: 1px solid black;
+    padding: 20px;
+    width: fit-content;
+    height:fit-content;
+
+ }
+ .intro, .fin
+ {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 60px;
+ }
+ .image {
+    text-align: center;
+    margin-top: 60px;
+}
